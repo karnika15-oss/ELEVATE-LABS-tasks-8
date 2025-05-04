@@ -1,0 +1,11 @@
+Sales Dashboard Insights
+
+1. ✅ The West region recorded the highest sales overall, especially during Q2, outperforming all other regions consistently.
+
+2. 📈 Sales peaked in November, indicating a strong seasonal trend likely due to holiday promotions or year-end campaigns.
+
+3. 🖥️ The Technology category had the highest total sales and profit, showing it is the top-performing product segment.
+
+4. ⚠️ The Central region showed fluctuating performance, with lower overall sales and profit margins compared to the West and East.
+
+
